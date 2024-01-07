@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0D554BB4-8954-4C00-8244-7B0D141194A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0B1C8AF8-DF32-4E03-AB2E-6E4F47E51136}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{7EEA5FC0-768D-4E45-B5B5-97D046C90564}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{C4BB3988-C9CF-4BD0-9CBC-EF58FA7796BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{4C6F40A8-0B38-4C58-8E99-93DAF3B165CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{404817D9-4D4E-44E5-9EDF-70A1F26EC7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaceMangement.Domain", "HR.LeaceMangement.Domain\HR.LeaceMangement.Domain.csproj", "{C5D124A9-B837-40AE-8143-64CA6ED9BC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D124A9-B837-40AE-8143-64CA6ED9BC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D124A9-B837-40AE-8143-64CA6ED9BC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D124A9-B837-40AE-8143-64CA6ED9BC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D124A9-B837-40AE-8143-64CA6ED9BC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7EEA5FC0-768D-4E45-B5B5-97D046C90564} = {0D554BB4-8954-4C00-8244-7B0D141194A8}
+		{C4BB3988-C9CF-4BD0-9CBC-EF58FA7796BB} = {0D554BB4-8954-4C00-8244-7B0D141194A8}
+		{4C6F40A8-0B38-4C58-8E99-93DAF3B165CB} = {0D554BB4-8954-4C00-8244-7B0D141194A8}
+		{404817D9-4D4E-44E5-9EDF-70A1F26EC7F9} = {0D554BB4-8954-4C00-8244-7B0D141194A8}
+		{C5D124A9-B837-40AE-8143-64CA6ED9BC2E} = {C4BB3988-C9CF-4BD0-9CBC-EF58FA7796BB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F13C17-841A-4FEE-B1B9-91098EC7398C}
+	EndGlobalSection
+EndGlobal

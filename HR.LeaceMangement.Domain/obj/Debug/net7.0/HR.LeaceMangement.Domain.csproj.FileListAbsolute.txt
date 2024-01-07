@@ -1,0 +1,12 @@
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\bin\Debug\net7.0\HR.LeaceMangement.Domain.deps.json
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\bin\Debug\net7.0\HR.LeaceMangement.Domain.dll
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\bin\Debug\net7.0\HR.LeaceMangement.Domain.pdb
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.csproj.AssemblyReference.cache
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.AssemblyInfoInputs.cache
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.AssemblyInfo.cs
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.dll
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\refint\HR.LeaceMangement.Domain.dll
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\HR.LeaceMangement.Domain.pdb
+D:\Documentos\blazor\HR_leavemanagement.Clean\HR.LeaceMangement.Domain\obj\Debug\net7.0\ref\HR.LeaceMangement.Domain.dll
