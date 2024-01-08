@@ -1,5 +1,4 @@
-﻿using HR.LeaceMangement.Domain;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,26 +8,11 @@ namespace HR.LeaveManagement.Application.Contracts.Persistence
 {
 	public interface IGenericRepository<T> where T : class
 	{
-		Task<T> GetAsync(int id);
-		Task<List<T>> GetByIdAsync();
+		Task<List<T>> GetAsync();
+		Task<List<T>> GetByIdAsync(int id);
 		Task<T> CreateAsync(T entity);
 		Task<T> UpdateAsync(T entity);
 		Task<T> DeleteAsync(T entity);
-
-	}
-
-	public interface ILeaveTypeRepository : IGenericRepository<LeaveType>
-	{
-
-	}
-
-	public interface ILeaveAllocationTypeRepository : IGenericRepository<LeaveAllocation>
-	{
-
-	}
-
-	public interface ILeaveRequestTypeRepository : IGenericRepository<LeaveRequest>
-	{
 
 	}
 }
